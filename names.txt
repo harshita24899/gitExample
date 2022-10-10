@@ -1,1 +1,2 @@
 boss,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
